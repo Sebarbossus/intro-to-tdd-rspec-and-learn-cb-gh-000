@@ -1,4 +1,4 @@
 def current_age_for_birth_year(year)
-  print 19
+  print 2003 - year
 end
 current_age_for_birth_year(1984)
